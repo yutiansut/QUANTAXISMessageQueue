@@ -1,0 +1,18 @@
+{
+  "name": "qamq",
+  "version": "1.0.0",
+  "description": "message queue for nodejs client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "message",
+    "queue;kafka;quantaxis"
+  ],
+  "author": "yutiansut",
+  "license": "MIT",
+  "dependencies": {
+    "kafka-node": "^1.6.2"
+  }
+}
