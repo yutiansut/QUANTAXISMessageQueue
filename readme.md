@@ -1,7 +1,7 @@
 # QUANTAXIS MQ
 
 
-技术栈:
+## 技术栈:
 
 - kafka-zookeeper-eagle(maven)  消息队列/分布式任务调度/性能监控
 
@@ -19,8 +19,12 @@
 
 =========
 
-Keyword:
+## Keyword:
 
 高扩展, 稳定性
 
 =======
+
+## 架构
+
+![Markdown](http://i4.buimg.com/1949/ec016a8c398a08e3.png)
