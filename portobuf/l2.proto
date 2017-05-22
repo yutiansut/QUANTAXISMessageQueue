@@ -1,0 +1,21 @@
+message market_price {
+    required float high = 1;
+    required float low =2 ;
+    required float open =3;
+    required float close =4;
+    required float volume=5;
+    required float time_stamp=6;
+    optional string code=7;
+
+
+    enum market_holder{
+        sh=0;
+        sz=1;
+    }
+
+
+    message market_info{
+        required market_holder type=1 [default = sh];
+        
+    }
+}
