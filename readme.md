@@ -1,6 +1,11 @@
 # QUANTAXIS MQ
 
 
+## 注意事项
+
+> 开发中.....有兴趣可以一起讨论  QQ群:563280067
+
+
 ## 技术栈:
 
 - kafka-zookeeper-eagle(maven)  消息队列/分布式任务调度/性能监控
