@@ -1,0 +1,7 @@
+message future_tick_guojin{
+    required float highprice=1;
+    required float lowprice=2;
+    required float openprice=3;
+    required float closeprice=4;
+    
+}
