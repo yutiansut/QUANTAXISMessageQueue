@@ -1,3 +1,5 @@
+syntax="proto3";
+package future;
 message future_min {
     required float high = 1;
     required float low =2 ;
