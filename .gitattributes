@@ -1,0 +1,6 @@
+*.java linguist-language=java
+*.cc linguist-language=C++
+*.h linguist-language=C++
+*.pb.h linguist-language=C++
+*.pb.cc linguist-language=C++
+*.bat linguist-language=shell
