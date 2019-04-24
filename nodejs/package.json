@@ -13,6 +13,6 @@
   "author": "yutiansut",
   "license": "MIT",
   "dependencies": {
-    "kafka-node": "^1.6.2"
+    "kafka-node": "^2.2.3"
   }
 }
